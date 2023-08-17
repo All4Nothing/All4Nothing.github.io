@@ -1,8 +1,8 @@
 # Site
 name: 'YongJoo'
 description: 'Life, Dev etc..'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/yong.jpg'
+favicon: 'assets/images/yong.jpg'
 url: 'https://All4Nothing.github.io/'
 baseurl: ''
 avatar: 'assets/images/profile.jpg'
