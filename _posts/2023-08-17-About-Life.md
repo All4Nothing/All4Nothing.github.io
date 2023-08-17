@@ -4,6 +4,6 @@ metadate: "hide"
 date : 2023-08-17 22:00:00 +0900
 categories: [ Life ]
 image: "/assets/images/boryeong.jpg"
-visit: https://www.wowthemes.net/themes/mediumish-wordpress/
+visit: "https://instagram.com/yong01._.k"
 ---
-This is Mediumish, a Premium [WordPress theme Medium-style](https://www.wowthemes.net/themes/mediumish-wordpress/).
+About Life
