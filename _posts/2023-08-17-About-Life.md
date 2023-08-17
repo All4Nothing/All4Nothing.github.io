@@ -1,8 +1,9 @@
 ---
-title:  "Mediumish WP Theme"
+title:  "About Life"
 metadate: "hide"
-categories: [ WordPress ]
-image: "/assets/images/mediumish.png"
+date : 2023-08-17 22:00:00 +0900
+categories: [ Life ]
+image: "/assets/images/boryeong.png"
 visit: https://www.wowthemes.net/themes/mediumish-wordpress/
 ---
 This is Mediumish, a Premium [WordPress theme Medium-style](https://www.wowthemes.net/themes/mediumish-wordpress/).
