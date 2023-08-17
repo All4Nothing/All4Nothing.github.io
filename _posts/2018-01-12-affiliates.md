@@ -1,7 +1,7 @@
 ---
 title:  "Affiliates Jekyll Theme"
 metadate: "hide"
-categories: [ Free, Jekyll, Themes ]
+categories: [ Jekyll ]
 image: "assets/images/affiliates.jpg"
 visit: "https://www.wowthemes.net/free-jekyll-template-affiliates/"
 ---

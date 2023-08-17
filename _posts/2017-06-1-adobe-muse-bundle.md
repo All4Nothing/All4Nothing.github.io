@@ -1,7 +1,7 @@
 ---
 title:  "Adobe Muse Bundle"
 metadate: "hide"
-categories: [ Premium, UI, Templates ]
+categories: [ Premium ]
 image: "/assets/images/adobe-muse.jpg"
 visit: "https://crmrkt.com/zpmep0"
 ---

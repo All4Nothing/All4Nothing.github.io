@@ -1,12 +1,12 @@
 # Site
-name: 'Pintereso'
-description: 'Pintereso is a free Jekyll theme for awesome people like you, Pinterest like.'
+name: 'YongJoo'
+description: 'Life, Dev etc..'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
+baseurl: '/home'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'sd081104@gmail.com'
 
 include: ["_pages"]
 permalink: /:title/

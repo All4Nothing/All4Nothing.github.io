@@ -1,7 +1,7 @@
 ---
 title:  "Mediumish WP Theme"
 metadate: "hide"
-categories: [ Premium, UI, WordPress, Themes ]
+categories: [ WordPress ]
 image: "/assets/images/mediumish.png"
 visit: https://www.wowthemes.net/themes/mediumish-wordpress/
 ---
