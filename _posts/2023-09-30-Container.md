@@ -54,4 +54,4 @@ python에서 `n=0` 라는 코드를 작성하면, python 내부에서 우선 cla
 다음 `y = x` 라는 코드를 입력하면, 새로운 상자를 만들지 않고, x가 가리키는 상자를 y도 가리키게 설정해주기만 하면 된다.
 
 따라서 x의 값이 바뀌면 y의 값도 같은 값으로 바뀌게 된다.
-![data-allocation-in-python](../img/data-allocation-in-python.png)
+![data-allocation-in-python](../img/data-allocation-in-python.jpg)
