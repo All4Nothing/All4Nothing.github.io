@@ -96,4 +96,20 @@ class Circle3(Point):
         ax.add_patch(c)
 ```
 
-`super().draw()`와 같이 자식 class에서 부모 class의 함수를 호출할 수도 있다.
+`super().draw()`와 같이 자식 class에서 부모 class의 함수를 호출할 수도 있다.  
+
+### instance를 function으로 사용하는 방법   
+class 정의 안에서 `__call__`이라는 함수를 정의하고, 이 함수에 원하는 내용을 적으면, class에서 생성한 instance를 호출 가능한 함수로 만들 수 있다.  
+```python
+class H:
+    def __call__(self, x):
+        return 2*x**2 + 2
+
+x = np.arange(-2, 2.1, 0.25)
+print(x)
+
+h = H()
+
+y = h(x)
+print(y)
+```
