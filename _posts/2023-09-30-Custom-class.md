@@ -3,11 +3,11 @@ title:  "Custom Class"
 metadate: "hide"
 date : 2023-09-30 16:30:00 +0900
 categories: [ ML/DL ]
-image: "/assets/images/custom-class.jpeg" 
+image: "/assets/images/custom-class.png" 
 visit: "https://github.com/All4Nothing"
 ---
 
-## Custom Class  
+## Custom Class 사용자 정의 클래스
 
 ### 객체 지향(Object-Oriented)
 Python과 객체 지향(Object-Oriented)과의 관계는, 크게 세 가지 수준으로 나눌 수 있다.

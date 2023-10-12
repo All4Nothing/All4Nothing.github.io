@@ -3,10 +3,10 @@ title:  "Container Type"
 metadate: "hide"
 date : 2023-09-30 16:00:00 +0900
 categories: [ ML/DL ]
-image: "/assets/images/container-type.jpeg"
+image: "/assets/images/container-type.png"
 visit: "https://github.com/All4Nothing"
 ---
-## 컨테이너(Container) 타입 변수  
+## Container Type Variable 컨테이너 타입 변수 
 Container 타입 변수란 list, tuple, dictionary, set과 같이 이름으로부터 실제 data에 접근하기 위해 index를 거쳐야 하는 data이다.
 
 ```python

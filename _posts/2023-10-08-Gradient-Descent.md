@@ -3,10 +3,10 @@ title:  "Gradient Descent"
 metadate: "hide"
 date : 2023-10-08 22:00:00 +0900
 categories: [ ML/DL ]
-image: "/assets/images/gradient-descent.jpeg" 
+image: "/assets/images/gradient-descent.png" 
 visit: "https://github.com/All4Nothing"
 ---
-## Gradient Descent
+## Gradient Descent 경사하강법
 
 Gradient Descent(경사 하강법)이란 가중치를 랜덤한 값에서부터 경사의 반대 방향으로 반복적으로 업데이트해 나가는 과정이다.
 다시 말하자면, Gradient Descent는 손실, 즉 예측값과 실제값의 차이를 줄이는 것을 목표로  예측 함수의 파라미터 값들을 찾아나가는 과정이다.
