@@ -11,6 +11,20 @@ image: "/assets/images/data-augmentation.png"
 
 PyTorch에서는 `Transforms` 기능을 통해 데이터 증강을 할 수 있다.
 
+PyTorch 사용 가능 기능 목록
+- RandomApply
+- RandomChoice
+- RandomCrop
+- RandomResizedCrop
+- ColorJitter
+- RandomGrayscale
+- RandomHorizontalFlip
+- RnadomVerticalFlip
+- RandomAffine
+- RandomPerspective
+- RandomRotation
+- RandomErasing
+
 ```python
 transform_train = transforms.Compose([
 	transforms.RandomHorizontalFlip(p=0.5),
@@ -19,3 +33,4 @@ transform_train = transforms.Compose([
 	transforms.RandomErasing(p=0.5, scale=(0.02, 0.33), ratio=(0.3, 3.3), value=0, inplace=False)
 ])
 ```
+
