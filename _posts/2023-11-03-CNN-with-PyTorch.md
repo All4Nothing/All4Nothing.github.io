@@ -269,7 +269,7 @@ def evaluate_history(history):
 - loader : 검증용 데이터로더
 - classes : 정답 데이터에 대응하는 라벨 값의 리스트 (ex. plane, car, bird ..)
 - net : 사전에 학습이 끝난 모델의 인스턴스. None을 넘기면 정답 데이터만 표시되며, 학습 전에 데이터의 형태를 확인하고 싶은 경우에 사용한다.
-- device : 예측 계사에 사용하는 디바이스
+- device : 예측 계산에 사용하는 디바이스
 
 ```python
 # 이미지와 라벨 표시
