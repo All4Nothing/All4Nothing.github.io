@@ -26,7 +26,7 @@ LogisticRegression의 대표적인 Kaggle 대회인 'House Price Prediction'에 
 <hr>
 
 ### Day 2 @ 2023.10.27
-use XGBoost
+**use XGBoost**
 - XGBRegressor
 - model tunning with early stopping
 
