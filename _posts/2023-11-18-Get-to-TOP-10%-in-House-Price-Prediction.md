@@ -38,7 +38,7 @@ LogisticRegression의 대표적인 Kaggle 대회인 'House Price Prediction'에 
 <hr>
 
 ### Day 3 @ 2023.11.18
-- - How I made top 0.3% on a Kaggle competition의 train과 test data를 concat해서 한번에 다루는 법. fillna(lambda : .mode[0])
+- How I made top 0.3% on a Kaggle competition의 train과 test data를 concat해서 한번에 다루는 법. fillna(lambda : .mode[0])
 - How I made top 0.3% on a Kaggle competition의 missing data 다루는법
 - cross validation
 - models
