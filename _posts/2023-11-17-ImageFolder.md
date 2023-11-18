@@ -3,7 +3,7 @@ title:  "ImageFolder"
 metadate: "hide"
 date : 2023-11-17 18:00:00 +0900
 categories: [ ML/DL ]
-image: "/assets/images/ImageFolder.png" 
+image: "/assets/images/imagefolder.png" 
 ---  
 ## ImageFolder
 
