@@ -5,6 +5,7 @@ date : 2023-11-18 20:00:00 +0900
 categories: [ ML/DL ]
 image: "/assets/images/activation-function.png" 
 ---  
+
 ### Activation Function 활성화 함수
 
 - 단순히 선형 함수들을 합성해 놓기만 한 예측함수는, 결국 한 개 층의 선형 함수를 쓴 예측함수와 같다.

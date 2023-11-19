@@ -138,3 +138,5 @@ plt.title('learning curve(accuracy)')
 plt.legend()
 plt.show()
 ```
+
+> 해당 포스팅은 '차근차근 실습하며 배우는 파이토치 딥러닝 프로그래밍'의 Ch08을 참고하여 작성되었습니다.

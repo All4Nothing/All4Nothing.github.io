@@ -375,3 +375,5 @@ class CNN(nn.Module):
     x3 = self.classifier(x2)
     return x3
 ```
+
+> 해당 포스팅은 '차근차근 실습하며 배우는 파이토치 딥러닝 프로그래밍'의 Ch09을 참고하여 작성되었습니다.

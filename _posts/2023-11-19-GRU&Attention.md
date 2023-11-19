@@ -5,6 +5,8 @@ date : 2023-11-19 16:00:00 +0900
 categories: [ ML/DL ]
 image: "/assets/images/gru&attention.png" 
 ---  
+
+
 **GRU**
 
 LSTM 셀에는 internal state와 external state가 있고 input gate, forget gate, output gate가 있다. 게이트 순환 유닛(GRU, gated recurrent unit)이라는 비슷한 유형의 셀이 2014년에 개발되어 gradient vanishing/exploding 문제를 효과적으로 처리하면서 Long Term Dependency를 학습했다.
@@ -42,3 +44,5 @@ Attention 개념은 우리 인간이 때에 따라, 또 sequence(text)의 어느
 모든 recurrent network 아키텍처에는 현 시간 단계에서 출력을 예측하기 위해 sequence의 특정 부분에 초점을 맞추는 메커니즘은 존재하지 않는다. 대신 RNN은 hidden state vector 형태로 과거 sequence의 요약만 얻을 수 있다.
 
 이 아키텍처에서 전역 컨텍스트 벡터는 매시간 단계마다 계산된다. 이후 앞서 나온 모든 단어에 주의를 기울이는 것이 아니라 앞서 나온 k개 단어에만 주의를 기울이는 로컬 컨텍스트 벡터를 사용하는 형태로 아키텍처의 변형이 개발됐다.
+
+> 해당 포스팅은 '실전! 파이토치 딥러닝 프로젝트'의 Ch04을 참고하여 작성되었습니다.

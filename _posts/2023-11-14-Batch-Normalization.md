@@ -87,3 +87,5 @@ var1 = (1 - momentum) * var0 + momentum * i_var
 mean2 = (1 - momentum) * mean1 + momentum * i_mean
 var2 = (1 - momentum) * var1 + momentum * i_var
 ```
+
+> 해당 포스팅은 '차근차근 실습하며 배우는 파이토치 딥러닝 프로그래밍'의 Ch10을 참고하여 작성되었습니다.

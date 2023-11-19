@@ -5,6 +5,7 @@ date : 2023-11-19 17:00:00 +0900
 categories: [ ML/DL ]
 image: "/assets/images/randwirenn.png" 
 ---  
+
 ## RandWireNN
 
 RandWireNN(Randomly Wired Neural Network, 무작위로 연결된 신경망)
@@ -23,3 +24,5 @@ RandWireNN(Randomly Wired Neural Network, 무작위로 연결된 신경망)
 여기에 단일 입력 노드(source)와 단일 출력 노드(sink)를 이 그래프에 추가해 이 랜덤 그래프를 신경망으로 완전히 변환한다. 그래프가 신경망으로 구현되면, 다양한 머신러닝 작업을 위해 훈련될 수 있다.
 
 ReLU-Conv-BN Triplet 유닛에서 채널/특징의 출력 개수는 반복 가능하도록 채널/특징의 입력 개수와 동일하다. 그렇지만 당면한 작업 유형에 따라 다운스트림 채널 개수가 증가하고 데이터/이미지의 공간 크기가 감소함에 따라 이 그래프 중 여러 개를 준비할 수 있다. 마지막으로 이렇게 준비된 그래프는 하나의 sink를 다른 하나의 source에 순차적으로 연결해 서로 연결할 수 있다.
+
+> 해당 포스팅은 '실전! 파이토치 딥러닝 프로젝트'의 Ch05을 참고하여 작성되었습니다.

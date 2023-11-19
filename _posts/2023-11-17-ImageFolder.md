@@ -5,6 +5,7 @@ date : 2023-11-17 18:00:00 +0900
 categories: [ ML/DL ]
 image: "/assets/images/imagefolder.png" 
 ---  
+
 ## ImageFolder
 
 내장 함수로 호출 가능한 공개 데이터셋이 아닌, 직접 수집한 JPEG 형식과 같은 이미지 데이터를 사용하는 방법에 대해 알아본다.
@@ -88,3 +89,5 @@ train_loader = DataLoader(train_data, batch_size = batch_size, shuffle = True)
 # test dataloader
 test_loader = DataLoader(test_data, batch_size = batch_size, shuffle = False)
 ```
+
+> 해당 포스팅은 '차근차근 실습하며 배우는 파이토치 딥러닝 프로그래밍'의 Ch12을 참고하여 작성되었습니다.

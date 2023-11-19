@@ -5,6 +5,7 @@ date : 2023-11-16 18:00:00 +0900
 categories: [ ML/DL ]
 image: "/assets/images/pretrained-model.png" 
 ---  
+
 ## Pretrained Model 사전학습 모델 사용법
 
 PyTorch 사전 학습 모델 - 이미지 분류 (https://pytorch.org/vision/0.8/models.html)
@@ -100,3 +101,5 @@ optimizer = optim.SGD(net.classifier[6].parameters(),lr=lr,momentum=0.9)
 # history 파일도 동시에 초기화
 history = np.zeros((0, 5))
 ```
+
+> 해당 포스팅은 '차근차근 실습하며 배우는 파이토치 딥러닝 프로그래밍'의 Ch11을 참고하여 작성되었습니다.
