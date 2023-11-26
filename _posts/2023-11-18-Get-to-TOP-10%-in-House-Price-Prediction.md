@@ -3,7 +3,7 @@ title:  "Get to TOP 10% in House Price Prediction"
 metadate: "hide"
 date : 2023-11-17 18:00:00 +0900
 categories: [ ML/DL ]
-image: "/assets/images/ImageFolder.png" 
+image: "/assets/images/get-to-top-10%-house-price-prediction.png" 
 ---  
 ## Get to TOP 10% in House Price Prediction
 LogisticRegression의 대표적인 Kaggle 대회인 'House Price Prediction'에 참가해, Leaderboard Top 10%에 들기 위해 다양한 테크닉들을 사용해보고 기록해보고자 한다.
