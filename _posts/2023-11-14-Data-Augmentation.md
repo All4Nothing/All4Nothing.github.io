@@ -2,7 +2,7 @@
 title:  "Data Augmentation"
 metadate: "hide"
 date : 2023-11-14 19:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/data-augmentation.png" 
 ---  
 ## Data Augmentation 데이터 증강

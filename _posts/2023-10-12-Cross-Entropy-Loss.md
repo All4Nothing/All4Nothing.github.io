@@ -2,7 +2,7 @@
 title:  "Gradient Descent"
 metadate: "hide"
 date : 2023-10-12 20:40:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/cross-entropy-loss.png" 
 visit: "https://github.com/All4Nothing"
 ---

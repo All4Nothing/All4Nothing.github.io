@@ -2,7 +2,7 @@
 title:  "Custom Class"
 metadate: "hide"
 date : 2023-09-30 16:30:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/custom-class.png" 
 visit: "https://github.com/All4Nothing"
 ---

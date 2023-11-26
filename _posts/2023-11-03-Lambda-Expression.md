@@ -2,7 +2,7 @@
 title:  "Lambda Expression"
 metadate: "hide"
 date : 2023-11-03 20:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/lambda-expression.png" 
 ---  
 

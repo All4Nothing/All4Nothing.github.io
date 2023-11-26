@@ -2,7 +2,7 @@
 title:  "Variate CNN"
 metadate: "hide"
 date : 2023-11-18 24:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/variate-cnn.png" 
 ---  
 

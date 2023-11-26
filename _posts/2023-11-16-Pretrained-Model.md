@@ -2,7 +2,7 @@
 title:  "Pretrained Model"
 metadate: "hide"
 date : 2023-11-16 18:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/pretrained-model.png" 
 ---  
 

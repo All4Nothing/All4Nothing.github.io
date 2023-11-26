@@ -2,7 +2,7 @@
 title:  "Get to TOP 10% in House Price Prediction"
 metadate: "hide"
 date : 2023-11-17 18:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Kaggle ]
 image: "/assets/images/get-to-top-10%-house-price-prediction.png" 
 ---  
 ## Get to TOP 10% in House Price Prediction

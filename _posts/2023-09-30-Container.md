@@ -2,7 +2,7 @@
 title:  "Container Type"
 metadate: "hide"
 date : 2023-09-30 16:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/container-type.png"
 visit: "https://github.com/All4Nothing"
 ---

@@ -2,7 +2,7 @@
 title:  "Gradient Descent"
 metadate: "hide"
 date : 2023-10-08 22:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/gradient-descent.png" 
 visit: "https://github.com/All4Nothing"
 ---

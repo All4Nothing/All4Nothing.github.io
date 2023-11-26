@@ -2,7 +2,7 @@
 title:  "BCELoss vs BCEWithLogitsLoss"
 metadate: "hide"
 date : 2023-10-13 18:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/bceloss-vs-bcewithlogitsloss.png" 
 visit: "https://github.com/All4Nothing"
 ---  

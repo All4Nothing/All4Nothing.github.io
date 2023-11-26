@@ -2,7 +2,7 @@
 title:  "RandWireNN"
 metadate: "hide"
 date : 2023-11-19 17:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/randwirenn.png" 
 ---  
 

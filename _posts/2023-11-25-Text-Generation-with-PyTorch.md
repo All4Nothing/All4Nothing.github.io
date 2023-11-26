@@ -2,7 +2,7 @@
 title:  "Text Generation with PyTorch"
 metadate: "hide"
 date : 2023-11-19 18:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/text-generation-with-pytorch.png" 
 ---  
 ## Text Generation with PyTorch 파이토치로 텍스트 생성기 만들기

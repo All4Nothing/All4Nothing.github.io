@@ -2,7 +2,7 @@
 title:  "Optimizer"
 metadate: "hide"
 date : 2023-11-14 22:00:00 +0900
-categories: [ ML/DL ]
+categories: [ Concepts ]
 image: "/assets/images/optimizer.png" 
 ---  
 ## Optimizer 최적화 함수
