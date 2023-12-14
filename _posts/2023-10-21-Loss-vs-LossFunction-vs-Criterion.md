@@ -3,7 +3,7 @@ title:  "Loss vs Loss Function vs Criterion"
 metadate: "hide"
 date : 2023-10-21 17:00:00 +0900
 categories: [ Concepts ]
-image: "/assets/images/loss-vs-loss-function-vs-criterion.png" 
+image: "/assets/images/loss-vs-lossfunction-vs-criterion.png" 
 visit: "https://github.com/All4Nothing"
 ---  
 ## Loss vs Loss Function vs Criterion
