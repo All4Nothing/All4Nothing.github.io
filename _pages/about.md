@@ -3,32 +3,21 @@ title: "About"
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 ---
+Hi, I'm
 
-Hi, guys! The website you are previewing is a demonstration for Pintereso Jekyll theme and it is hosted on Github pages. There are various ways you can use Pintereso with your Jekyll website. Here are some of them:
+Korea Univ. Dept of Computer Science & Engineering
 
-- blogging
-- curated resources
-- affiliate marketing
-- resume
-- portfolio
-- photography
+I’m currently learning Machine Learning, Deep Learning
 
-**Features**
-
-- 100% Github Pages Compatibility
-- Bootstrap 4.x
-- SEO Integration
-- Search
-- Categories
-- Prev/Next Post
-- Pagination
-- Disqus Comments
-- Sitemap
-- Feed
-- Formspree Contact Form
-- Pinterest, AddThis, Google Analytics
-- Font Awesome 5+
-- Cookie Consent & Privacy Policy
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a><br>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>  
 
 Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
 
