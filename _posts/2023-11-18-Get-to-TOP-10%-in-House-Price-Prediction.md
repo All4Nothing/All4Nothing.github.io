@@ -1,5 +1,5 @@
 ---
-title:  "Get to TOP 10% in House Price Prediction"
+title:  "Get to TOP 5.9% in House Price Prediction"
 metadate: "hide"
 date : 2023-11-17 18:00:00 +0900
 categories: [ Kaggle ]
@@ -37,11 +37,31 @@ LogisticRegression의 대표적인 Kaggle 대회인 'House Price Prediction'에 
 
 <hr>
 
-### Day 3 @ 2023.11.18
-- How I made top 0.3% on a Kaggle competition의 train과 test data를 concat해서 한번에 다루는 법. fillna(lambda : .mode[0])
-- How I made top 0.3% on a Kaggle competition의 missing data 다루는법
-- cross validation
-- models
-- stacking
-- blending
-- train data로 validation score 찍어서 각 테크닉 socre 비교
+### Day 3 @ 2023.12.23
+
+- A*pply $log(1+x)$ transformation to skewed data*
+- Combine train and test features in order to apply the feature transformation pipeline to the entire dataset
+- Fill missing value
+- Fix skewed features
+- Encode categorical features → **Score :** `0.1432`
+- Scale predictions → **Score :** `0.14309`
+
+- Fine Tune XGBoost → **Score :** `0.14284`
+- blend XGBoost + SVR(Support Vector Regressor) → **Score :** `0.12657`
+- blend XGBoost + SVR(Support Vector Regressor) + Ridge Regressor → **Score :** `0.12387`
+- blend XGBoost + SVR(Support Vector Regressor) + Ridge Regressor + LGBM → **Score :** `0.12173`
+- blend XGBoost + SVR(Support Vector Regressor) + Ridge Regressor + LGBM + Gradient Boosting Regressor + Random Forest Regressor → **Score :** `0.12173`
+- blend XGBoost + SVR(Support Vector Regressor) + Ridge Regressor + LGBM + Gradient Boosting Regressor + Random Forest Regressor + Stack up all the models above, optimized using xgboost → **Score :** `0.12155`
+
+> **Score : 0.12155**
+> **Rank : 308**
+
+[Kaggle Code](https://www.kaggle.com/code/outoftime/how-i-made-top-0-3-on-a-kaggle-competition)
+
+### Conclusion
+
+![kaggle_house_price_prediction_participation](../img/kaggle_house_price_prediction_participation.png)
+
+![kaggle_house_price_prediction_score.jpg](../img/kaggle_house_price_prediction_score.png)
+
+**Top 5.9%**
