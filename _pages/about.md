@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 ---
-Hi, I'm
+Hi, I'm in
 
 Korea Univ. Dept of Computer Science & Engineering
 
@@ -19,6 +19,4 @@ I’m currently learning Machine Learning, Deep Learning
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/></a>  
 
-Made with <i class="fa fa-heart text-danger"></i> by Sal @wowthemesnet. Thanks for your <a target="_blank" href="https://www.wowthemes.net/freebies-license/">support</a>!
-
-<a class="btn btn-danger" href="https://github.com/wowthemesnet/template-pintereso-bootstrap-jekyll/archive/master.zip"><i class="fa fa-download"></i> pintereso.zip</a> <a target="_blank" class="btn btn-warning" href="https://www.wowthemes.net/donate/"><i class="fa fa-coffee"></i> Buy me a coffee?</a>
+<a class="btn btn-danger" href="https://github.com/All4Nothing"><i class="fa fa-github"></i> github</a>
