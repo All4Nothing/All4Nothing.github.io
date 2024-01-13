@@ -3,6 +3,8 @@ title: "About"
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 ---
+"Want a Be a Fast Learner"
+
 Hi, I'm in
 
 Korea Univ. Dept of Computer Science & Engineering
