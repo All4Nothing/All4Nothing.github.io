@@ -1,6 +1,5 @@
 ---
 title:  "Multi Classification"
-metadate: "hide"
 date : 2023-10-21 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/multi-classification.png" 

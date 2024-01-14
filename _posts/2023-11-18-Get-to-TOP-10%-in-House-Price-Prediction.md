@@ -1,6 +1,5 @@
 ---
 title:  "Get to TOP 5.9% in House Price Prediction"
-metadate: "hide"
 date : 2023-11-17 18:00:00 +0900
 categories: [ Kaggle ]
 image: "/assets/images/get-to-top-10%-house-price-prediction.png" 

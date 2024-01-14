@@ -1,6 +1,5 @@
 ---
 title:  "Reinforcement Learning"
-metadate: "hide"
 date : 2023-12-10 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/reinforcement-learning.png" 

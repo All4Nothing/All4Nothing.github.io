@@ -1,6 +1,5 @@
 ---
 title:  "Prototyping with PyTorch"
-metadate: "hide"
 date : 2023-12-14 20:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/prototyping-with-pytorch.png" 

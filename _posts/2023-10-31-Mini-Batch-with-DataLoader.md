@@ -1,6 +1,5 @@
 ---
 title:  "Mini-Batch with DataLoader"
-metadate: "hide"
 date : 2023-10-31 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/mini-batch-with-dataloader.png" 

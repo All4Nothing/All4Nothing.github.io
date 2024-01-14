@@ -1,6 +1,5 @@
 ---
 title:  "Neural Style Transfer"
-metadate: "hide"
 date : 2023-12-07 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/neural-style-transfer.png" 

@@ -1,6 +1,5 @@
 ---
 title:  "PyTorch GPU"
-metadate: "hide"
 date : 2023-10-31 20:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/pytorch-gpu.png" 

@@ -1,6 +1,5 @@
 ---
 title:  "Activation Function"
-metadate: "hide"
 date : 2023-11-18 20:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/activation-function.png" 

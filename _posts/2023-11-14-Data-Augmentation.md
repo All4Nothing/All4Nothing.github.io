@@ -1,6 +1,5 @@
 ---
 title:  "Data Augmentation"
-metadate: "hide"
 date : 2023-11-14 19:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/data-augmentation.png" 

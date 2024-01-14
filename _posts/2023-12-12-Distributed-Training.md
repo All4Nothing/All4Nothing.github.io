@@ -1,6 +1,5 @@
 ---
 title:  "Distributed Training"
-metadate: "hide"
 date : 2023-12-12 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/distributed-training.png" 

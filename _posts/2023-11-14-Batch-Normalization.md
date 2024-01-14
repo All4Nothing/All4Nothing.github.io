@@ -1,6 +1,5 @@
 ---
 title:  "Batch Normalization"
-metadate: "hide"
 date : 2023-11-14 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/batch-normalization.png" 

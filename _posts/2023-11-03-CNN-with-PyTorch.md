@@ -1,6 +1,5 @@
 ---
 title:  "CNN with PyTorch"
-metadate: "hide"
 date : 2023-11-03 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/cnn-with-pytorch.png" 

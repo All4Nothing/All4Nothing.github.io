@@ -1,6 +1,5 @@
 ---
 title:  "Statistics Basic (1)"
-metadate: "hide"
 date : 2024-01-14 18:00:00 +0900
 categories: [ Concepts]
 image: "/assets/images/statistics-basic-(1).png" 

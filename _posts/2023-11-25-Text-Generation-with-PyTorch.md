@@ -1,6 +1,5 @@
 ---
 title:  "Text Generation with PyTorch"
-metadate: "hide"
 date : 2023-11-19 18:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/text-generation-with-pytorch.png" 

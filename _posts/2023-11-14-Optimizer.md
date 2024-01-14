@@ -1,6 +1,5 @@
 ---
 title:  "Optimizer"
-metadate: "hide"
 date : 2023-11-14 22:00:00 +0900
 categories: [ Concepts ]
 image: "/assets/images/optimizer.png" 
