@@ -36,5 +36,6 @@ Random Tree
 
 
 4. Various Model with Deeper Feature Engineering
-
-4. Ensemble 
+Ensemble(Voting) RandomForest, ExtraTrees, SVC, AdaBoost, GradientBoosting with GridSearchCV 
+> **Score : 0.78229**  
+> **Rank : 2707 (Top 16%)**
