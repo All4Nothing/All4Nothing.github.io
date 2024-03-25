@@ -5,6 +5,8 @@ categories: [ Kaggle ]
 image: "/assets/images/get-to-top-10%-titanic-machine-learning-from-disaster.png" 
 ---  
 
+https://www.kaggle.com/code/outoftime/titanic-machine-learning-from-disaster-1/notebook
+
 1. [Baseline] Logistic Regression with Only Simple Data PreProcessing
 - Complete Missing Value
 - Drop Feature
@@ -114,3 +116,7 @@ class SklearnHelper(object):
 `**Plotly scatterplots**`
 
 - Plotly package를 이용하여 각 모델의 feature importances 값들을 시각화할 수 있었다.
+
+**`Plot learning curves`**
+
+- `plot_learning_curve` 함수를 정의하여 learning curve를 시각화하여 overfitting, underfitting을 확인해볼 수 있었다.
