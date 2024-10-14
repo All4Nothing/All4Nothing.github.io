@@ -31,7 +31,7 @@ Black-box Optimization(블랙박스 최적화)란 목적 함수나 매개변수 
 
 또한, 대회의 평가 지표가 '예측(Pred) 상위 10% 중에서 실제(True) 상위 5%에 대한 Recall 계산'이었습니다. 회귀 문제라 MSE를 이용해 모델을 훈련시켰는데, 평가 지표는 Recall 점수여서 실험을 진행하며 꽤나 고민이 되었습니다. MSE로 학습과 평가를 진행하자니 제출한 결과물에 대한 Recal 점수와의 관계를 알 수 없었고, Recall 점수를 학습에 이용하기엔 부자연스럽다고 판단했습니다. 따라서 저는 MSE로 모델을 학습하고, MSE와 더불어 대회 평가지표와 동일한 Recall 계산 함수를 만들어 모델을 평가했습니다.
 
-이번 대회에서는 Ridge, SVM, CNN, MLP, RandomForest, XGBoost, LightGBM 모델들과 StandardScaler, PowerTransformer, 이상치 탐지, OpenFE, GridSearchCV, K-Fold CV 방법들을 이용해 14일간 42번의 실험을 진행했습니다.
+이번 대회에서는 Ridge, SVM, CNN, MLP, RandomForest, XGBoost, LightGBM 모델들과 StandardScaler, PowerTransformer, Outliers detection, OpenFE, GridSearchCV, K-Fold CV 방법들을 이용해 14일간 42번의 실험을 진행했습니다.
 
 다음은 대회를 준비하며 진행한 실험 내용의 간략한 요약입니다.
 
