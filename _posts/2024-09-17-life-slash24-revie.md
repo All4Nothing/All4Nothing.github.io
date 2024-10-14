@@ -1,6 +1,6 @@
 ---
 title: "미친듯이 빠르게 성장하는 토스의 개발자 컨퍼런스 SLASH24 후기"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+excerpt: "빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지"
 
 categories:
   - Life
@@ -15,10 +15,8 @@ toc_sticky: true
 date: 2024-09-17
 last_modified_at: 2024-09-17
 ---
-
-## 🦥 본문
-
-### 미친듯이 빠르게 성장하는 토스의 개발자 컨퍼런스 SLASH24 후기
+![image]("/../assets/images/posts_img/slash24-review/slash24.jpeg")
+## 미친듯이 빠르게 성장하는 토스의 개발자 컨퍼런스 SLASH24 후기
 
 휴가를 맞아 토스 개발자 컨퍼런스 SLASH24에 다녀왔습니다!
 참가 경쟁률이 무려 8대1이였다고 하는데요, 운 좋게도 지인의 양도로 다녀올 수 있었습니다 :D
