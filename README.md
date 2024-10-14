@@ -239,7 +239,7 @@ script.setAttribute('theme', '{{ site.comments.utterances.theme | default: "gith
 
 ### ▪ Google Analytics 연결
 
-[https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/)에서 접속하여 연결
+[https://analytics.google.com/analytics/web/](https:G-4PEYK4P53H//analytics.google.com/analytics/web/)에서 접속하여 연결
 
 ```yml
 # Analytics

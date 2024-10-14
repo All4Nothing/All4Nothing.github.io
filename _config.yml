@@ -93,7 +93,7 @@ analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "your tracking id here"
+    tracking_id: "G-4PEYK4P53H"
     anonymize_ip: # true, false (default)
 
 # Site Author
@@ -219,6 +219,7 @@ plugins:
   - jekyll-gist
   # - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # mimic GitHub Pages with --safe
 whitelist:
