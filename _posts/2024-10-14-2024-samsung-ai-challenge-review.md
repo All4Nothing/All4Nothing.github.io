@@ -6,6 +6,7 @@ categories:
   - Machine Learning
 tags:
   - [Competition]
+use_math: true
 
 permalink: /machine-learning/2024-samsung-ai-challenge-review/
 
@@ -15,7 +16,8 @@ toc_sticky: true
 date: 2024-10-14
 last_modified_at: 2024-10-14
 ---
-![image](../assets/images/posts_img/2024-samsung-ai-challenge-review/database.png)
+
+![image](/assets/images/posts_img/2024-samsung-ai-challenge-review/2024-samsung-ai-challenge-review.png)
 
 ## 2024 Samsung AI challenge Black-box Optimization Review
 
@@ -23,7 +25,7 @@ last_modified_at: 2024-10-14
 
 2024 Samsung AI Challenge: Black-box Optimization에 참가했습니다. 이번 대회는 삼성전자 SAIT가 주관한 것으로, 반도체 공정과 같이 복잡한 블랙박스 문제에 대한 최적화 알고리즘을 개발하는 대회였습니다.
 
-Black-box Optimization(블랙박스 최적화)란 목적 함수나 매개변수 간의 자세한 관계를 알 수 없는 최적화 문제를 말합니다. 대회에서 제공한 데이터는 각 변수의 의미를 알 수 없었고, $x_0, x_1, x_2,...,y$와 같이 표기된 변수들로 구성되어 있었습니다.
+Black-box Optimization(블랙박스 최적화)란 목적 함수나 매개변수 간의 자세한 관계를 알 수 없는 최적화 문제를 말합니다. 대회에서 제공한 데이터는 각 변수의 의미를 알 수 없었고, $x_0, x_1, x_2,...,y$ 와 같이 표기된 변수들로 구성되어 있었습니다.
 
 이번 대회를 진행하며 겪은 어려움은 크게 두 가지였습니다.
 
@@ -97,7 +99,7 @@ OpenFE로 새롭게 생성된 변수들을 중요도 순으로 정렬하여 원�
 
 대회를 진행하며 MSE값, Recall 점수, Public 및 Private 점수 간의 상관관계에 대한 의문이 남아, 대회를 다시 한번 분석해보기로 했습니다. 최종 제출본 외에는 비공개 점수가 공개되지 않고, 대회 종료 후 새로 제출한 결과물에 한해 Private 점수가 공개되었기에 의미있었던 결과물들의 Private 점수를 확인해보는 과정을 거쳤습니다. (기존의 실험 결과들을 따로 저장해두지 않아… 모든 코드를 다시 돌렸습니다 ㅠㅠ)
 
-![image.png](../assets/images/posts_img/2024-samsung-ai-challenge-review/database.png)
+![image.png](/assets/images/posts_img/2024-samsung-ai-challenge-review/database.png)
 
 결과를 살펴보니, MSE값과 Recall 점수 간에 어느 정도 상관관계가 있어 보이지만, Public Recall 점수이 높다고 해서 Public Recall 값이 반드시 높은 것은 아니었습니다. 실제로 최종 제출본보다 Public 점수는 낮지만 MSE값이 높았던 결과물이 Private 점수에서 더 높은 성적을 거두었습니다. 
 

@@ -6,6 +6,7 @@ categories:
   - Life
 tags:
   - [SLASH24]
+use_math: true
 
 permalink: /life/slash24-review/
 
@@ -15,19 +16,20 @@ toc_sticky: true
 date: 2024-09-17
 last_modified_at: 2024-09-17
 ---
-![image]("/../assets/images/posts_img/slash24-review/slash24.jpeg")
+![image](/assets/images/posts_img/slash24-review/slash24.jpeg)
 ## 미친듯이 빠르게 성장하는 토스의 개발자 컨퍼런스 SLASH24 후기
 
-휴가를 맞아 토스 개발자 컨퍼런스 SLASH24에 다녀왔습니다!
-참가 경쟁률이 무려 8대1이였다고 하는데요, 운 좋게도 지인의 양도로 다녀올 수 있었습니다 :D
-이번 SLASH24에서는 Data, Server, FrontEnd, DevOps, QA, Product 등 다양한 직무에 관한 세션을 진행했고, 원하는 세션에 자유롭게 참가하여 듣는 방식이었습니다.
+휴가를 맞아 토스 개발자 컨퍼런스 SLASH24에 다녀왔습니다!  
+참가 경쟁률이 무려 8대1이였다고 하는데요, 운 좋게도 지인의 양도로 다녀올 수 있었습니다 :D  
+이번 SLASH24에서는 Data, Server, FrontEnd, DevOps, QA, Product 등 다양한 직무에 관한 세션을 진행했고, 원하는 세션에 자유롭게 참가하여 듣는 방식이었습니다.  
 
-제가 참석한 세션은 다음과 같습니다:
- 빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지 #Product #Special
- Feature Store로 유연하게 ML 고도화하기 해시태그#DATA
- 약은 약사에게, 테스트는 토스 닥터에게! #QA
- 사람-일-지식을 연결하는 해법, Notion AI로 지식 사일로 허물기 해시태그#Notion 해시태그#Special
- 팀에 Winning Mentality를 불어넣는 리더십 스킬 #Data #Special
+제가 참석한 세션은 다음과 같습니다:  
+ - 빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지 *#Product #Special*  
+ - Feature Store로 유연하게 ML 고도화하기 *#DATA*  
+ - 약은 약사에게, 테스트는 토스 닥터에게! *#QA*  
+ - 사람-일-지식을 연결하는 해법, Notion AI로 지식 사일로 허물기 *해시태그*#Notion #Special*  
+ - 팀에 Winning Mentality를 불어넣는 리더십 스킬 *#Data #Special*  
+
 이 중에서 가장 인상 깊었던 빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지에 대해 공유하고자 합니다.
 
 "빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지"에서는 토스의 Foundation Leader 임희진 님이 주니어 개발자들에게 필요한 소프트 스킬에 관해 설명해 주셨습니다.

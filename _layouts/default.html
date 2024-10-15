@@ -55,6 +55,9 @@
     
     {% include head.html %}
     {% include head/custom.html %}
+    {% if page.use_math %}
+      {% include mathjax_support.html %}
+    {% endif %}
 
     <link rel="apple-touch-icon" sizes="180x180" href="https://All4Nothing.github.io/assets/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://All4Nothing.github.io/assets/images/favicon/favicon-32x32.png">
