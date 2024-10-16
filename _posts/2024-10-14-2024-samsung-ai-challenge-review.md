@@ -1,6 +1,6 @@
 ---
 title: "2024 Samsung AI challenge Black-box Optimization Review"
-excerpt: "Recall 점수와 MSE 값의 관계"
+excerpt: "Recall 점수와 MSE 값의 관계 고찰"
 
 categories:
   - Machine Learning
