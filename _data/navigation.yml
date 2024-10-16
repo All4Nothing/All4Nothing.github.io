@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Machine Learning"
-    url: /ßcategories/machine-learning/
+    url: /categories/machine-learning/
   - title: "Life"
     url: /categories/life/
   - title: "Papers"
